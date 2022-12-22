@@ -8,9 +8,9 @@ I am a full-stack blockchain developer and a web3 enthusiast. I have over 3+ yea
 I am a creative and result-driven person, with a solution-oriented mindset. I am very passionate about the revolution of web3 and the positive change it can bring. I am trying my best to play a part in this innovation.
 
 
-- 🏢 Visit my company [Dechains](dechains.com)
+- 🏢 Visit my company [Dechains](https://www.dechains.com/)
 
-- 👨‍💻 Checkout my portfolio [abdulrafay.dev](abdulrafay.dev)
+- 👨‍💻 Checkout my portfolio [abdulrafay.dev](https://www.abdulrafay.dev/)
 
 - 💬 Ask me about **Web3 | NFT | DeFi**
 
