@@ -21,8 +21,8 @@ I am a creative and result-driven person, with a solution-oriented mindset. I am
 <p align="left">
 <a href="https://twitter.com/_abdul_rafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_abdul_rafay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul-rafay-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rafay-siddiqui" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithrafay5027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithrafay5027" height="30" width="40" /></a>
 <a href="https://discord.gg/abdulrafay#6860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdulrafay#6860" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithrafay5027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithrafay5027" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Technology Stack:</h3>
