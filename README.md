@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_abdul_rafay" target="blank"><img src="https://img.shields.io/twitter/follow/_abdul_rafay?logo=twitter&style=for-the-badge" alt="_abdul_rafay" /></a> </p>
 
-I am a full-stack blockchain developer and a web3 enthusiast. I have over 3+ years of experience in blockchain development, from working on Defi and NFT protocols to developing complex solutions for blockchain startups and businesses.
+I am a full-stack blockchain developer and a web3 enthusiast. I have over 4+ years of experience in blockchain development, from working on Defi and NFT protocols to developing complex solutions for blockchain startups and businesses.
 
 I am a creative and result-driven person, with a solution-oriented mindset. I am very passionate about the revolution of web3 and the positive change it can bring. I am trying my best to play a part in this innovation.
 
