@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">Full Stack Blockchain Developer | Co-Founder Dechains</h3>
+<h3 align="center">Web3 | MERN | Fullstack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/_abdul_rafay" target="blank"><img src="https://img.shields.io/twitter/follow/_abdul_rafay?logo=twitter&style=for-the-badge" alt="_abdul_rafay" /></a> </p>
 
