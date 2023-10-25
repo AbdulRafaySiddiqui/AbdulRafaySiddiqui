@@ -3,9 +3,23 @@
 
 <p align="left"> <a href="https://twitter.com/_abdul_rafay" target="blank"><img src="https://img.shields.io/twitter/follow/_abdul_rafay?logo=twitter&style=for-the-badge" alt="_abdul_rafay" /></a> </p>
 
-I am a full-stack blockchain developer and a web3 enthusiast. I have over 4+ years of experience in Fullstack and blockchain development, from working on Defi and NFT protocols to developing complex solutions for blockchain startups and businesses.
+👋 Greetings! I'm Abdul Rafay, an experienced Full-Stack Web and Mobile Developer with over 4 years in the industry. I specialize in crafting high-performance applications tailored to unique client needs. With my strong technical proficiency combined with top-notch communication abilities, I bring innovative solutions and think beyond conventional boundaries.
 
-I am a creative and result-driven person, with a solution-oriented mindset. I am very passionate about the revolution of web3 and the positive change it can bring. I am trying my best to play a part in this innovation.
+My Core Tech Stack Includes:
+
+🖥️ Frontend: React, Next.js, Javascript, Typescript, Redux, Redux Toolkit, React Query, Axios, MUI, Tailwind CSS, Bootstrap, SCSS, Three.js, GSAP, Jest
+🔧 Backend: Express.js, Nest.js, Jest, Mocha, Chai, MySQL, MongoDB, Firebase, Socket
+📱 Mobile: Flutter, React Native, Android, iOS
+🔗 Blockchain: Solidity Smart contracts, Hardhat, Veim, Wagmi, Ethers.js
+☁️ Cloud Platforms: AWS, Vercel, CI/CD pipelines
+🛠️ Others: Turbo Repo, Git, Asana, Jira, Clickup
+
+Having command over project management tools 📊, I effectively lead projects from idea inception 🌱 to deployment 🚀. My expertise doesn't stop here; I've delved deep into the world of blockchain, gaining hands-on experience with smart contracts and decentralized applications.
+
+💡Let's collaborate and transform your digital vision into a reality!
+
+Warm Regards,
+Abdul Rafay 🙂
 
 
 - 🏢 Visit my company [Dechains](https://www.dechains.com/)
