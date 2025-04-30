@@ -24,7 +24,7 @@ Abdul Rafay 🙂
 
 - 🏢 Visit my company [Dechains](https://www.dechains.com/)
 
-- 👨‍💻 Checkout my portfolio [abdulrafay.dev](https://www.abdulrafay.dev/)
+- 👨‍💻 Checkout my portfolio [abdulrafaysiddiqui.com](https://www.abdulrafaysiddiqui.com/)
 
 - 💬 Ask me about **Web3 | NFT | DeFi**
 
