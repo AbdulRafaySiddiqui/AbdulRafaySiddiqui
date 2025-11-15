@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">Web3 | MERN | Fullstack Developer</h3>
+<h3 align="center">AI | Software Engineer | Fullstack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/_abdul_rafay" target="blank"><img src="https://img.shields.io/twitter/follow/_abdul_rafay?logo=twitter&style=for-the-badge" alt="_abdul_rafay" /></a> </p>
 
@@ -14,7 +14,7 @@ My Core Tech Stack Includes:
 ☁️ Cloud Platforms: AWS, Vercel, CI/CD pipelines
 🛠️ Others: Turbo Repo, Git, Asana, Jira, Clickup
 
-Having command over project management tools 📊, I effectively lead projects from idea inception 🌱 to deployment 🚀. My expertise doesn't stop here; I've delved deep into the world of blockchain, gaining hands-on experience with smart contracts and decentralized applications.
+Having command over project management tools 📊, I effectively lead projects from idea inception 🌱 to deployment 🚀. My expertise doesn't stop here; I've delved deep into the world of software development life cycle, agentic AI, blockchain, gaining hands-on experience with AI based agentic softwares, smart contracts and decentralised applications.
 
 💡Let's collaborate and transform your digital vision into a reality!
 
@@ -24,11 +24,11 @@ Abdul Rafay 🙂
 
 - 🏢 Visit my company [Dechains](https://www.dechains.com/)
 
-- 👨‍💻 Checkout my portfolio [abdulrafaysiddiqui.com](https://www.abdulrafaysiddiqui.com/)
+- 👨‍💻 Checkout my portfolio [abdulrafay.io](https://www.abdulrafay.io/)
 
-- 💬 Ask me about **Web3 | NFT | DeFi**
+- 💬 Ask me about **AI | Web3 | Software Development | DeFi**
 
-- 📫 How to reach me **abdulrafay@dechains.com**
+- 📫 How to reach me **hello@abdulrafay.io**
 
 
 <h3 align="left">Connect with me:</h3>
