@@ -22,8 +22,6 @@ Warm Regards,
 Abdul Rafay 🙂
 
 
-- 🏢 Visit my company [Dechains](https://www.dechains.com/)
-
 - 👨‍💻 Checkout my portfolio [abdulrafay.io](https://www.abdulrafay.io/)
 
 - 💬 Ask me about **AI | Web3 | Software Development | DeFi**
